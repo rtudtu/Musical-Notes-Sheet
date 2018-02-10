@@ -1,5 +1,5 @@
 # Musical-Notes-Sheet
-Developed by: Richard Tu  
+Developed by: Richard Tu and Phillip Mann  
 Made in: June 2016  
 Musical Notes Sheet with 4 different views: Console, GUI, MIDI, and Composite.  
 Console will provide the user of a ASCII art styled vertical music sheet.  
